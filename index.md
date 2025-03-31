@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# Hello World Welcome to my blog page!
+This is my personal blog. I share some articles about being a software engineering student and software that I am interested in. Fallow me!
