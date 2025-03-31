@@ -17,8 +17,8 @@ title: Nur Sima's Software Engineering Journey
 email: nrsmorgen@gmail.com
 description: A blog about my journey as a software engineering student, learning, coding, and growing.
 
-baseurl: /myavesomeblog
-url: https://NurSima1471.github.io
+baseurl: "/myavesomeblog"
+url: "https://NurSima1471.github.io"
 twitter_username: jekyllrb
 github_username:  NurSima1471
 linkedin_username: Nur Sima ÖRGEN
