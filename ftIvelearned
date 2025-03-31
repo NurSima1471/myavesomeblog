@@ -1,0 +1,7 @@
+#I want to share that first thinghs I've learned
+
+For viewing the details of the file in terminal, we can use cat command
+For editing or creating, we can use nano command
+For viewing the first line of the file, we can use head command
+For viewing the last line of the file, we can use tail command
+
